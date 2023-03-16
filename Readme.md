@@ -9,7 +9,7 @@ Step2) :-
 Then open Your terminal and go to that folder you created (by using cd command)
 
 Step3) :-
-Type in terminal (git clone https://github.com/vikash-nineleaps/news-app.git) or copy content from Project Folder
+Type in terminal (`git clone https://github.com/vikash-nineleaps/news-app.git`) or copy content from Project Folder
 
 Step4 : Then go to that folder and run `npm install` if you have git cloned else skip this step.
 
